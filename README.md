@@ -8,7 +8,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="laura2102 | LinkedIn" width="22px" src="https://www.linkedin.com/in/laura-sophia-salfer-b4624b1a5/" />][linkedin]
+[<a href = "https://www.linkedin.com/in/laura-sophia-salfer-b4624b1a5/"> 
+<img align="left" alt="laura2102 | LinkedIn" width="22px" src="images/linkedin.png" </a>][linkedin]
 
 ### Languages:
 - C
