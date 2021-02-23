@@ -11,8 +11,6 @@
 <a href = "https://www.linkedin.com/in/laura-sophia-salfer-b4624b1a5/"> 
 <img src="images/linkedin.png" width="22px"/></a>
 
-<p>alt="laura2102 | LinkedIn" [linkedin]</p>
-
 ### Languages:
 - C / C++
 - HTML & CSS
