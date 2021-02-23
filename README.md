@@ -8,10 +8,11 @@
 
 ### Connect with me:
 
-[<a href = "https://www.linkedin.com/in/laura-sophia-salfer-b4624b1a5/"> 
-<img align="left" alt="laura2102 | LinkedIn" width="22px" src="images/linkedin.png" </a>][linkedin]
+<a href = "https://www.linkedin.com/in/laura-sophia-salfer-b4624b1a5/"> 
+<img src="images/linkedin.png" width="22px"/></a>
+
+<p>alt="laura2102 | LinkedIn" [linkedin]</p>
 
 ### Languages:
-- C
-- C++
+- C / C++
 - HTML & CSS
