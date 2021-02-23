@@ -1,6 +1,6 @@
 ### Hi there, I'm Laura - aka [laura2102] 👋
 
-## I'm a student!
+## I'm a computer science student!
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: truly understand how object oriented programming works 
